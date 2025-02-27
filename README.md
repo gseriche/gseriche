@@ -1,28 +1,82 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Seriche</h1>
-<h3 align="center">A passionate DevOps engineer from Chile</h3>
+<!-- Optional: Add a banner or header image (make sure to replace the URL with one you host) -->
+<!-- ![Banner](https://your-banner-image-url.com/banner.png) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gseriche&label=Profile%20views&color=0e75b6&style=flat" alt="gseriche" /> </p>
+# Hi there, I'm Gonzalo Seriche! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gseriche" alt="gseriche" /></a> </p>
+**Senior DevOps / DevSecOps Engineer** with 10+ years of experience designing and managing cloud-native infrastructures, automating CI/CD pipelines and improving application security across **AWS**, **GCP**, and **Azure**.  
+Passionate about **Kubernetes**, **Terraform**, **Docker**, and the entire DevOps toolchain that helps teams ship faster and more securely.
 
-- 📫 How to reach me **gonzalo.seriche@gmail.com**
+- 🌍 Based in Chile, fluent in **Spanish** (native) and **English** (advanced).  
+- 🎯 Experienced with **DevSecOps**: from scanning container images to implementing NIST & CIS standards.  
+- ☁️ Certified: AWS SysOps Administrator Associate, AWS Cloud Practitioner, Terraform Associate, GCP Associate Cloud Engineer.  
+- 🏆 Focused on **automation**, **scalability**, and **cost optimization**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gseriche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gseriche" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gonzaloserichevega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzaloserichevega" height="30" width="40" /></a>
-<a href="https://instagram.com/gseriche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gseriche" height="30" width="40" /></a>
-<a href="https://medium.com/@gonzalo.seriche.vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gonzalo.seriche.vega" height="30" width="40" /></a>
+---
+
+## ⚙️ Tech Stack & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [1. gonzaloseriche.rocks](https://github.com/gseriche/gonzaloseriche.rocks)
+> Personal website/portfolio showcasing my DevOps journey, cloud experiments, and blog posts.
+
+### [2. grafana-dash-migration](https://github.com/gseriche/grafana-dash-migration)
+> Scripts and tooling to automate the migration of legacy Grafana dashboards into a new version or environment.  
+> Built with Terraform + Docker to enable reproducible environments for testing and validation.
+
+---
+
+## 🔧 Contributions
+- [**k8s-cookbook**](https://github.com/lsst-it/k8s-cookbook) – Recipes and guidelines for Kubernetes best practices.  
+- [**lsst-control**](https://github.com/lsst-it/lsst-control) – Helping with IaC and CI/CD automation for the LSST (Large Synoptic Survey Telescope) project.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gseriche&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gseriche&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+> *Note:* These stats only reflect public contributions, not private repositories or organizations.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/gonzaloseriche"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gonzaloseriche" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gseriche&show_icons=true&locale=en&layout=compact" alt="gseriche" /></p>
+## 📫 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gseriche&show_icons=true&locale=en" alt="gseriche" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GonzaloSeriche-blue)](https://linkedin.com/in/gonzaloserichevega)
+[![Medium](https://img.shields.io/badge/Medium-@gonzalo.seriche.vega-black)](https://medium.com/@gonzalo.seriche.vega)
+[![X (Twitter)](https://img.shields.io/badge/X-@gseriche-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/gseriche)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gseriche&" alt="gseriche" /></p>
+- **Email:** gonzalo.seriche@gmail.com
+
+---
+
+## ☕ Support
+
+If you’ve found my work helpful or just want to support my DevOps adventures, feel free to:
+
+[![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-Support%20Me-29ABE0?logo=ko-fi&logoColor=white)](https://ko-fi.com/gonzaloseriche)
+
+---
+
+### Thank You for Stopping By!
+
+I’m always open to discussing new projects, **DevOps** best practices, or how to optimize complex infrastructures. Feel free to reach out or just say hi!
+
+---
